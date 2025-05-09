@@ -1,5 +1,5 @@
 {
-  "name": "simple-nodejs-api",
+  "name": "api-backend-nodejs express-mysql sequelize-jwt para app de servicios  trasporte ",
   "version": "1.0.0",
   "description": "API backend con Node.js, Express, MYSQL, sequelize y JWT",
   "main": "index.js",
